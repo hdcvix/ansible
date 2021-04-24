@@ -1,6 +1,6 @@
 ---
 # vars file for install-wp
-dbpass: password01
+dbpass: 'password01'
 http_port: 8080
 dbhost: 192.168.18.96
 dbport: 3306
